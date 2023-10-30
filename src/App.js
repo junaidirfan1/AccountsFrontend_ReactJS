@@ -9,7 +9,7 @@ import MasterAC from "./Components/MasterAC";
 
 import { BrowserRouter as Router, Route, Routes, Link } from "react-router-dom";
 
-import Table from "./Components/Table";
+
 
 // import Sidebar from "./Components/Sidebar";
 // import Login from "./Components/Login";
@@ -21,7 +21,7 @@ function App() {
         <Navbar />
         {/* <Sidebar  /> */}
         <Routes>
-          <Route exact path="/table" element={<Table />}></Route>
+       
 
           <Route exact path="/masterac" element={<MasterAC />}></Route>
 

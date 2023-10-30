@@ -922,11 +922,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\Project\\Backend\\WebApplication4\\WebApplication4.csproj",
+      "projectUniqueName": "D:\\New Project\\Backend\\WebApplication4\\WebApplication4.csproj",
       "projectName": "WebApplication4",
-      "projectPath": "D:\\Project\\Project\\Backend\\WebApplication4\\WebApplication4.csproj",
+      "projectPath": "D:\\New Project\\Backend\\WebApplication4\\WebApplication4.csproj",
       "packagesPath": "C:\\Users\\cash\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\Project\\Backend\\WebApplication4\\obj\\",
+      "outputPath": "D:\\New Project\\Backend\\WebApplication4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cash\\AppData\\Roaming\\NuGet\\NuGet.Config",

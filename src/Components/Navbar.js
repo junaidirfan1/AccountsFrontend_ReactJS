@@ -46,8 +46,7 @@ function Navbar() {
                 <div className="hidden sm:ml-6 sm:block">
                   <div className="flex space-x-4">
                     {/* Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" */}
-                    <Link to="/table" className="bg-gray-900 text-white rounded-md px-3 py-2 text-sm font-medium" aria-current="page">Master Account</Link>
-                    <Link to="/masterac" className="bg-gray-900 text-white rounded-md px-3 py-2 text-sm font-medium" aria-current="page">Master Account 2</Link>
+                    <Link to="/masterac" className="bg-gray-900 text-white rounded-md px-3 py-2 text-sm font-medium" aria-current="page">Master Account </Link>
                     <Link to="/payment" className="text-gray-300 hover:bg-gray-700 hover:text-white rounded-md px-3 py-2 text-sm font-medium">Payment Voucher</Link>
                     <Link to="/journal" className="text-gray-300 hover:bg-gray-700 hover:text-white rounded-md px-3 py-2 text-sm font-medium">Journal Voucher</Link>
                     <Link to="/reciept" className="text-gray-300 hover:bg-gray-700 hover:text-white rounded-md px-3 py-2 text-sm font-medium">Receipt Voucher</Link>
